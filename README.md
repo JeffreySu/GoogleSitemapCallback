@@ -5,7 +5,7 @@ Senparc GoogleSitemap这是一个由盛派网络（Senparc）发起的免费Goog
 
 工作原理是：通过网页，用户向一个运行在Senparc云端的机器人（SenMapic）发送收录网站请求，SenMapic完成收录后，将结果整理成标准的Google Sitemap格式，包含响应统计结果、html文件返回给请求方。
 
-所生成的所有页面URL是SenMapic根据网页入口模拟搜索引擎蜘蛛爬行得到的，宝货其中出现的各种页面错误也可以及时发现。
+所生成的所有页面URL是SenMapic根据网页入口模拟搜索引擎蜘蛛爬行得到的，所以其中出现的各种页面错误也可以及时发现。
 
 同时SenMapic还接收定制服务，每天定时为用户推送最新sitemap.xml/.html以及统计结果，这样就可以在完全没有人共参与的情况下完成对网站Sitemap的更新。
 
