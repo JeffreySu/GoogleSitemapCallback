@@ -9,4 +9,4 @@ Senparc GoogleSitemap这是一个由盛派网络（Senparc）发起的免费Goog
 
 同时SenMapic还接收定制服务，每天定时为用户推送最新sitemap.xml/.html以及统计结果，这样就可以在完全没有人工参与的情况下完成对网站Sitemap的更新。
 
-为了实践sitemap.xml/.html的自动更新，目标网站上需要放置一个接收每天推送信息的接口。这个项目中的UpdateSitemap.aspx就是这样一个demo文件。可以直接复制到网站根目录使用。
+为了实现sitemap.xml/.html的自动更新，目标网站上需要放置一个接收每天推送信息的接口。这个项目中的UpdateSitemap.aspx就是这样一个demo文件。可以直接复制到网站根目录使用。
